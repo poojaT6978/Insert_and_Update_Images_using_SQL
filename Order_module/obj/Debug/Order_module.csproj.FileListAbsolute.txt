@@ -1,0 +1,11 @@
+F:\C#\Order_module\Order_module\bin\Debug\Order_module.exe.config
+F:\C#\Order_module\Order_module\bin\Debug\Order_module.exe
+F:\C#\Order_module\Order_module\bin\Debug\Order_module.pdb
+F:\C#\Order_module\Order_module\obj\Debug\Order_module.csprojAssemblyReference.cache
+F:\C#\Order_module\Order_module\obj\Debug\Order_module.Form1.resources
+F:\C#\Order_module\Order_module\obj\Debug\Order_module.Order_Module_final.resources
+F:\C#\Order_module\Order_module\obj\Debug\Order_module.Properties.Resources.resources
+F:\C#\Order_module\Order_module\obj\Debug\Order_module.csproj.GenerateResource.cache
+F:\C#\Order_module\Order_module\obj\Debug\Order_module.csproj.CoreCompileInputs.cache
+F:\C#\Order_module\Order_module\obj\Debug\Order_module.exe
+F:\C#\Order_module\Order_module\obj\Debug\Order_module.pdb
